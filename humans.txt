@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  RequestLab Team — Developers - @requestlab
+
+# THANKS
+
+  Google Web Starter Kit
+  Yeoman
+  Codrops
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, JS
